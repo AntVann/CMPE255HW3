@@ -20,8 +20,7 @@ https://colab.research.google.com/drive/1I6GhxMPav97njsQJQK1BKtMMRXn9XWMz?usp=sh
 # d) Association Rules Mining
 Does not work on google colab so I created the notebook on my own. I have attached the notebook in the directory.
 
-# e) Time Series Forecasting - Univariate without Exogenous Variable
+# e) Time Series Forecasting - Univariate with and without Exogenous Variable
 
-## Time Series Forecasting - Univariate with Exogenous Variables
 
 
