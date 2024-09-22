@@ -6,7 +6,7 @@ HW 3 contains 8 Google Colabs each with a video.
 https://colab.research.google.com/drive/1aCx9qcmMRktO1uitL-hZYtvaV-GdBugh?usp=sharing
 
 ## Multiclass Classification
-
+https://colab.research.google.com/drive/1UIrJNU3tBqtUbuPIDd8KUYn3IWotSPMC?usp=sharing
 
 ## Regression
 https://colab.research.google.com/drive/1V8saBUDCWRwi_sb3BcQfKzAWajab24xp?usp=sharing
