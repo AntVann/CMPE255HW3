@@ -21,6 +21,6 @@ https://colab.research.google.com/drive/1I6GhxMPav97njsQJQK1BKtMMRXn9XWMz?usp=sh
 Does not work on google colab so I created the notebook on my own. I have attached the notebook in the directory.
 
 # e) Time Series Forecasting - Univariate with and without Exogenous Variable
-
+https://colab.research.google.com/drive/1x90P4DaBmc3cFfbPZ71EVWMrumkVR_rH?usp=sharing
 
 
